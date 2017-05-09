@@ -1,6 +1,6 @@
 # hello-world
-this is my first program.
+
+这是我的第一个程序！！
 
 
-
-editor:A_ck
+作者：A_ck
